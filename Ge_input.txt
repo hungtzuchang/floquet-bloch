@@ -1,0 +1,28 @@
+$NKPOINTS
+10
+
+$mc
+0.56
+
+$mv
+0.29
+
+#0.8 eV
+$Eg
+0.029
+
+#800 nm
+$Omega0
+0.055
+
+#7 fs pulse
+$PULSE_WIDTH
+123.336
+
+#1e11 W/cm^2
+$FIELD_STRENGTH
+0.01479
+
+#10 fs
+$gamma
+0.00241
